@@ -1,1 +1,3 @@
-# posist
+# POSist
+i hereby declare that my code is rubbish.
+please do not run it itll produce errors ...
